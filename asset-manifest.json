@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c43fa6e.chunk.css",
+    "main.js": "/static/js/main.438ddac3.chunk.js",
+    "main.js.map": "/static/js/main.438ddac3.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.439b5c6b.chunk.js": "/static/js/2.439b5c6b.chunk.js",
+    "static/js/2.439b5c6b.chunk.js.map": "/static/js/2.439b5c6b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.06683e247758b761a26c1bcc068f43a4.js": "/precache-manifest.06683e247758b761a26c1bcc068f43a4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.3c43fa6e.chunk.css.map": "/static/css/main.3c43fa6e.chunk.css.map",
+    "static/media/CurrentResume.pdf": "/static/media/CurrentResume.4769d9f3.pdf",
+    "static/media/aboutme1.png": "/static/media/aboutme1.4e1f3c06.png",
+    "static/media/aboutme2.png": "/static/media/aboutme2.7b6ebd6b.png",
+    "static/media/aboutme3.png": "/static/media/aboutme3.45167c51.png",
+    "static/media/App.css": "/static/media/background.17af5437.png",
+    "static/media/devPic.png": "/static/media/devPic.3aa658a9.png",
+    "static/media/dubs.png": "/static/media/dubs.f41e2503.png",
+    "static/media/enterButton.png": "/static/media/enterButton.a4977653.png",
+    "static/media/headshot.gif": "/static/media/headshot.b674eb81.gif",
+    "static/media/headshot1.png": "/static/media/headshot1.1c1ffe7f.png",
+    "static/media/headshot2.png": "/static/media/headshot2.6c25146a.png",
+    "static/media/homeIcon.png": "/static/media/homeIcon.c1426e2e.png",
+    "static/media/leetcode.png": "/static/media/leetcode.ff2175ee.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/resumeIcon.png": "/static/media/resumeIcon.4eeb2ac6.png",
+    "static/media/temp.png": "/static/media/temp.9a44627a.png"
+  }
+}
